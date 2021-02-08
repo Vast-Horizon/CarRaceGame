@@ -1,0 +1,5 @@
+﻿  Car.cpp
+  Main.cpp
+C:\Users\SURFACES\source\repos\1PR3_lab4_2_CarRace\1PR3_lab4_2_CarRace\Main.cpp(23,13): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Generating Code...
+  1PR3_lab4_2_CarRace.vcxproj -> C:\Users\SURFACES\source\repos\1PR3_lab4_2_CarRace\Debug\1PR3_lab4_2_CarRace.exe
