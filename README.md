@@ -1,5 +1,5 @@
 # CarRaceGame
-Write a class named Car, performs the following:\
+Write a class named Car, performs the following:
 
 Write a program that reads data from carData.txt and stores 5 car objects in an array. \
 The program should display the information of each car on screen before the game start. \
