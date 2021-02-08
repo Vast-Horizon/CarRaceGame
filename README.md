@@ -1,6 +1,8 @@
 # CarRaceGame
 Write a class named Car, performs the following:
 ![](intro.jpg)
+***************************************************
+![](UML.jpg)
   ==================================================\
   Here is the sample output
 ![](demo1.png)
